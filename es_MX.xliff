@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file original="messages.pot" source-language="en" target-language="es">
+  <file original="messages.pot" source-language="EN-US" target-language="ES-MX">
     <body>
       <trans-unit id="welcome_message" resname="WelcomeMessage">
         <source>Welcome to our website!</source>
