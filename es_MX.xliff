@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="messages.pot" source-language="en" target-language="es">
+    <body>
+      <trans-unit id="welcome_message" resname="WelcomeMessage">
+        <source>Welcome to our website!</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="about_us" resname="AboutUsLink">
+        <source>About Us</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="contact_us" resname="ContactUsLink">
+        <source>Contact Us</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="product_title" resname="ProductTitle">
+        <source>Amazing Product</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="add_to_cart" resname="AddToCartButton">
+        <source>Add to Cart</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="logout" resname="LogoutButton">
+        <source>Logout</source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
